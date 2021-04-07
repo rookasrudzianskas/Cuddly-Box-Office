@@ -6,7 +6,7 @@ import Title from "./Title";
 const MainPageLayout = ({ children }) => {
     return (
         <div>
-            <Title title="Box office" subtitle="Are you looking fpr a movie or an actor?"/>
+            <Title title="Box office" subtitle="Are you looking for a movie or an actor?"/>
             <Navs/>
             {children}
         </div>
