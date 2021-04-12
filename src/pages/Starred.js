@@ -2,7 +2,6 @@ import React, {useEffect, useState} from "react";
 import MainPageLayout from "../components/MainPageLayout";
 import {apiGet} from "../misc/config";
 import {useShows} from "../misc/custom-hooks";
-import Show from "./Show";
 import ShowGrid from "../components/show/ShowGrid";
 
 const Starred = () => {
