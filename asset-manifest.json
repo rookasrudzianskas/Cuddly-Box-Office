@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Cuddly-Box-Office/static/css/main.084fcccb.chunk.css",
-    "main.js": "/Cuddly-Box-Office/static/js/main.2f70cb1d.chunk.js",
-    "main.js.map": "/Cuddly-Box-Office/static/js/main.2f70cb1d.chunk.js.map",
+    "main.js": "/Cuddly-Box-Office/static/js/main.5a558af2.chunk.js",
+    "main.js.map": "/Cuddly-Box-Office/static/js/main.5a558af2.chunk.js.map",
     "runtime-main.js": "/Cuddly-Box-Office/static/js/runtime-main.cc585608.js",
     "runtime-main.js.map": "/Cuddly-Box-Office/static/js/runtime-main.cc585608.js.map",
-    "static/js/2.5e499ffa.chunk.js": "/Cuddly-Box-Office/static/js/2.5e499ffa.chunk.js",
-    "static/js/2.5e499ffa.chunk.js.map": "/Cuddly-Box-Office/static/js/2.5e499ffa.chunk.js.map",
+    "static/js/2.d507ad32.chunk.js": "/Cuddly-Box-Office/static/js/2.d507ad32.chunk.js",
+    "static/js/2.d507ad32.chunk.js.map": "/Cuddly-Box-Office/static/js/2.d507ad32.chunk.js.map",
     "static/js/3.c17d0923.chunk.js": "/Cuddly-Box-Office/static/js/3.c17d0923.chunk.js",
     "static/js/3.c17d0923.chunk.js.map": "/Cuddly-Box-Office/static/js/3.c17d0923.chunk.js.map",
     "index.html": "/Cuddly-Box-Office/index.html",
     "static/css/main.084fcccb.chunk.css.map": "/Cuddly-Box-Office/static/css/main.084fcccb.chunk.css.map",
-    "static/js/2.5e499ffa.chunk.js.LICENSE.txt": "/Cuddly-Box-Office/static/js/2.5e499ffa.chunk.js.LICENSE.txt"
+    "static/js/2.d507ad32.chunk.js.LICENSE.txt": "/Cuddly-Box-Office/static/js/2.d507ad32.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cc585608.js",
-    "static/js/2.5e499ffa.chunk.js",
+    "static/js/2.d507ad32.chunk.js",
     "static/css/main.084fcccb.chunk.css",
-    "static/js/main.2f70cb1d.chunk.js"
+    "static/js/main.5a558af2.chunk.js"
   ]
 }
