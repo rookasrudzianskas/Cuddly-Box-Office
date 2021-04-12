@@ -1,4 +1,4 @@
-import React from 'react'
+import Reacts from 'react'
 import {Link} from "react-router-dom";
 // import {SearchCard} from "../styled";
 import {StyledShowCard} from "./ShowCard.styles";

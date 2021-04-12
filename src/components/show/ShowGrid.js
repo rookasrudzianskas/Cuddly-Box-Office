@@ -1,4 +1,4 @@
-import React from 'react'
+import React  from 'react'
 import ShowCard from "./ShowCard";
 import IMAGE_NOT_FOUND from '../../images/not-found.png';
 import { FlexGrid } from "../styled";
@@ -20,7 +20,7 @@ const ShowGrid = ({data}) => {
                 } else {
                     dispatchStarred( {type: 'ADD', showId: show.id} );
                 }
-            }
+            };
 
 
 
