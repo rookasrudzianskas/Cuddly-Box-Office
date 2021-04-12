@@ -42,7 +42,6 @@ return(
             {!isLoading && !shows && <div>No shows were added</div>}
             {!isLoading && !error && shows && <ShowGrid data={shows} />}
 
-
         </MainPageLayout>
     );
 };
